@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Grape",
+        "cost": "200",
+        "description": "-",
+        "image": "images/grape.jpg"
+    },
+    "2": {
+        "name": "Peach",
+        "cost": "150",
+        "description": "-",
+        "image": "images/peach.jpg"
+    },
+    "3": {
+        "name": "Apple",
+        "cost": "250",
+        "description": "-",
+        "image": "images/apple.jpg"
+    },
+    "4": {
+        "name": "Limon",
+        "cost": "100",
+        "description": "-",
+        "image": "images/limon.jpg"
+    }
+}
